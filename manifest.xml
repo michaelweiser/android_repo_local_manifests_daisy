@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="mw" fetch="https://github.com/michaelweiser/" />
+<project path="device/mw/daisy" name="android_device_mw_daisy" remote="mw" revision="master" />
+</manifest>

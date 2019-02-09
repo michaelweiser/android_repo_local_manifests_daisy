@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="mw" fetch="https://github.com/michaelweiser/" />
+
+<remove-project name="platform/packages/apps/Launcher3" />
+<project path="packages/apps/Launcher3" name="android_packages_apps_launcher3" remote="mw" revision="master" />
+
+</manifest>
